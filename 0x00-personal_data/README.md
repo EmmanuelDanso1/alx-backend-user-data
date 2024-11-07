@@ -1,0 +1,1 @@
+This readme emphasizes on personal data for both PII(personal identifiable information) and PI for america and europe standard of storing information
